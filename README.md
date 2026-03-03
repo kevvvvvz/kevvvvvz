@@ -14,3 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Kevin, a software engineer based in Georgia.
+
+I build things I find interesting, usually using React, JavaScript and Python.
+This is my profile repository where I'll be sharing projects and things im currently working on. Some repositories may be private, but I'm always looking to build something fun.
+
+___________________________________________________________________________________________________________________________________________________________________________________
+
+## Tools & Tech
+
+- React, JavaScript, Python
+- Databases (MongoDB mainly)
+- Figma for UI design
+
+___________________________________________________________________________________________________________________________________________________________________________________
+
+## A Bit About Me
+
+-  🎮 I enjoy playing many different types of games
+-  🏴‍☠️ I like anime: One Piece is my favorite
+-  🚀 I like to build interesting things that I can enjoy
+
+___________________________________________________________________________________________________________________________________________________________________________________
+
+## Reach Me
+
+- Email: kevzbu@gmail.com
