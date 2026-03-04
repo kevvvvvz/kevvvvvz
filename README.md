@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm Kevin, a software engineer based in Georgia.
 
 I build things I find interesting, usually using React, JavaScript and Python.
-This is my profile repository where I'll be sharing projects and things im currently working on. Some repositories may be private, but I'm always looking to build something fun.
+This is my profile where I'll be sharing projects and things im currently working on. Some repositories may be private, but I'm always looking to build something fun.
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
